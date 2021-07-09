@@ -1,2 +1,4 @@
 Data science path 
   Data preprocessing
+   splitting data
+   model training
